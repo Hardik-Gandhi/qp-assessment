@@ -1,0 +1,9 @@
+# Node artifact files
+node_modules/
+dist/
+
+#env files
+config/.env.development
+config/.env.production
+
+package-lock.json
